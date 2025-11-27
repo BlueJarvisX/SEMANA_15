@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "776314712288",
+    "firebase_url": "https://chatmqttrealtime-default-rtdb.firebaseio.com",
+    "project_id": "chatmqttrealtime",
+    "storage_bucket": "chatmqttrealtime.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776314712288:android:907caeeae18da651436085",
+        "android_client_info": {
+          "package_name": "com.whasupp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776314712288-d6ti11mig3e682gk5vjm2prdap3k2buv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.whasupp.app",
+            "certificate_hash": "206d8b57109f3adc837d1c7ffdccf7a3639651a0"
+          }
+        },
+        {
+          "client_id": "776314712288-6dj6p0rr6o5ks3ingsau69743t89947f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApnYkZxP4OZWdwnxPsZ-LZ4_HYyxbPQII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776314712288-6dj6p0rr6o5ks3ingsau69743t89947f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

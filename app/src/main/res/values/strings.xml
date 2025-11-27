@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WhasUpp</string>
+    <string name="login_title">Bienvenido a WhasUpp</string>
+    <string name="btn_google_sign_in">Ingresar con Google</string>
+    <string name="hint_message">Mensaje</string>
+
+    <string name="cd_send_message">Enviar mensaje</string>
+</resources>
